@@ -18,6 +18,11 @@ function Stats() {
                 </div>
                  <div className='col-lg-6 col-sm-12'>
                     <img src='media/images/ecosystem.png' style={{width:"70%"}}/>
+                    <div className='text-center'>
+                        <a href='#' className='mx-5' style={{textDecoration:"None"}}>Explore our products <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+
+                           <a href='#' className='mx-5' style={{textDecoration:"None"}}>Try kite demo <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+                    </div>
                  </div>
             </div>
         </div>

@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.nav-link{
+  margin-left: 1.2rem;
+}
+
+.fa-brands{
+  color: gray;
+  font-size: 20px;
+}
+
+
+.fa-brands:hover{
+  color: #387ed1;
+}
