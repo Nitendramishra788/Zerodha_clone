@@ -5,7 +5,7 @@ import './index.css';
 import HomePage from './landing_Page/home/HomePage';
 import Signup from './landing_Page/signup/Signup';
 import About from './landing_Page/about/AboutPage';
-import Pricing from './landing_Page/home/Pricing';
+import Pricing from './landing_Page/pricing/PricingPage';
 import Products from './landing_Page/products/ProductPage';
 import Support from './landing_Page/support/SupportPage';
 import Navbar from './landing_Page/Navbar';
