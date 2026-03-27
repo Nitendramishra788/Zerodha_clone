@@ -26,3 +26,7 @@ code {
 .fa-brands:hover{
   color: #387ed1;
 }
+
+a{
+  text-decoration: none;
+}
